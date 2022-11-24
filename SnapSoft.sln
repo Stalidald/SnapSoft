@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapSoft", "SnapSoft\SnapSoft.csproj", "{695D5C9E-654D-4152-93C1-692A8A318004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695D5C9E-654D-4152-93C1-692A8A318004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695D5C9E-654D-4152-93C1-692A8A318004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695D5C9E-654D-4152-93C1-692A8A318004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695D5C9E-654D-4152-93C1-692A8A318004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9EDA73F-446A-4B23-81A8-C4C76169574D}
+	EndGlobalSection
+EndGlobal
